@@ -64,7 +64,7 @@ Relational links between tables required creative SQL joins and time-based match
 
 ---
 
-## 🗕️ Completed: August 2025  
+## Completed: August 2025  
 **Tools Used**: PostgreSQL, pgAdmin, SQL, ERD schema
 
 ---
